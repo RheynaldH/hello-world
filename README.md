@@ -1,1 +1,2 @@
-# hello-world
+A basic First code from Github!
+By RheynaldH
